@@ -1,5 +1,7 @@
 # YouTube Subtitle Sidebar
 
+[简体中文说明](./README.zh-CN.md)
+
 `YouTube Subtitle Sidebar` is a local-only Chrome extension that shows YouTube subtitles in the right sidebar on `youtube.com/watch` pages.
 
 It is designed as a simple MVP:
